@@ -13,6 +13,9 @@
 }
 
 .ucapan{
+    width: 1200px;
+    height: 90px;
+    margin: auto;
     color: rgb(44, 158, 252);
     font-size: 35px;
     font-family: Arial;
@@ -20,4 +23,16 @@
     float: left;
     padding-top: 10px;
     margin-top: 5px
+}
+
+.ucapan2{
+    width: 1200px;
+    height: 120px;
+    margin: auto;
+    color: rgb(44, 158, 252);
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 20px;
+    margin-top: 15px
 }
