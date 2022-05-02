@@ -1,3 +1,5 @@
 alert("Selamat Hari Lebaran")
+alert("Taqabbalallahu Minna Wa Minkum")
 alert("Minal aidzin Wal faidzin")
-alert("Mohon maaf lahir Dan batin")
+alert("Mohon maaf lahir dan batin, kalau saya ada kesalahan atau kata yang kurang berkenan🙏")
+alert("Semoga kita dipertemukan dg Ramadhan tahun depan")
