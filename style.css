@@ -5,7 +5,8 @@
 }
 
 .main-look{
-    width: 100%;
+    width: 200%;
+    height: 200%;
     background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(pexels-pnw-production-8995682.jpg);
     background-position: center;
     background-size: cover;
@@ -23,6 +24,7 @@
     float: left;
     padding-top: 10px;
     margin-top: 5px
+    padding-position: center;
 }
 
 .ucapan2{
@@ -35,4 +37,5 @@
     float: left;
     padding-top: 20px;
     margin-top: 15px
+    padding-position: center;
 }
